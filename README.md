@@ -1,5 +1,5 @@
 # Aleph Zero Blockchain Explorer
-##Tooling/Infrastructure - Create developer/infrastructure tooling for the Aleph Zero Ecosystem.
+## Tooling/Infrastructure - Create developer/infrastructure tooling for the Aleph Zero Ecosystem.
 ## Overview
 [project Link](https://aleph-zero-scan-ui.vercel.app/)
 
