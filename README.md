@@ -13,6 +13,9 @@ Welcome to the Aleph Zero Blockchain Explorer - your gateway to the heart of the
 
 - **Documentation Link:** Effortlessly glide into the depths of Aleph Zero's capabilities. The project seamlessly integrates with the Aleph Zero documentation, ensuring you have all the knowledge at your fingertips.
 
+### AlephZero SUBQL
+[link](https://github.com/olaoyesalem/alephZeroScan_suql.git)
+
 ## Getting Started
 
 ### Prerequisites
