@@ -1,46 +1,62 @@
-# Getting Started with Create React App
+# Aleph Zero Blockchain Explorer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+[project Link](https://aleph-zero-scan-ui.vercel.app/)
 
-## Available Scripts
+Welcome to the Aleph Zero Blockchain Explorer - your gateway to the heart of the Aleph Zero blockchain. Crafted with precision and designed for seasoned developers, this project is the culmination of our efforts in the [Hackathon Name]. Dive deep into Aleph Zero's intricacies, explore extrinsic transactions, unravel event blocks, and seamlessly navigate to the Aleph Zero documentation for a holistic understanding.
 
-In the project directory, you can run:
+## Features
 
-### `yarn start`
+- **Extrinsic Transactions:** Illuminate the intricate dance of transactions within the Aleph Zero blockchain. Uncover sender details, recipient information, transaction amounts, and timestamps with unparalleled clarity.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **Event Blocks:** Elevate your insights by exploring event blocks. Gain a nuanced understanding of diverse activities pulsating through the Aleph Zero network.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- **Documentation Link:** Effortlessly glide into the depths of Aleph Zero's capabilities. The project seamlessly integrates with the Aleph Zero documentation, ensuring you have all the knowledge at your fingertips.
 
-### `yarn test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Prerequisites
 
-### `yarn build`
+To embark on this journey, ensure you have the following tools at your disposal:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Node.js:** The backbone of our development environment. Install it from [here](https://nodejs.org/).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Yarn (Optional):** Enhance your package management experience with Yarn. Install it from [here](https://yarnpkg.com/).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Installation
 
-### `yarn eject`
+1. Clone this repository:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+   ```bash
+    git clone https://github.com/your-username/aleph-zero-explorer.git
+   ```
+2. Navigate to the project directory:
+ ```bash
+ cd alephZeroScan_UI
+ ```
+ 3. Install Dependencies
+ ``` bash
+ yarn install
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Usage
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+1. Ignite Development Server
+``` bash
+yarn start
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+2. Unlock the portal to the Aleph Zero Blockchain Explorer a
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### License
+This project operates under the permissive MIT License.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Acknowledgments
+A heartfelt thank you to the Aleph Zero team for their unwavering support and the wealth of knowledge found in the Aleph Zero documentation.
+
+### Relevant Links
+Aleph Zero Documentation link
+
+#### Contributors
+Olaoye Salem link
