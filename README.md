@@ -1,5 +1,5 @@
 # Aleph Zero Blockchain Explorer
-
+##Tooling/Infrastructure - Create developer/infrastructure tooling for the Aleph Zero Ecosystem.
 ## Overview
 [project Link](https://aleph-zero-scan-ui.vercel.app/)
 
@@ -11,7 +11,7 @@ Welcome to the Aleph Zero Blockchain Explorer - your gateway to the heart of the
 
 - **Event Blocks:** Elevate your insights by exploring event blocks. Gain a nuanced understanding of diverse activities pulsating through the Aleph Zero network.
 
-- **Documentation Link:** Effortlessly glide into the depths of Aleph Zero's capabilities. The project seamlessly integrates with the Aleph Zero documentation, ensuring you have all the knowledge at your fingertips.
+
 
 ### AlephZero SUBQL
 [link](https://github.com/olaoyesalem/alephZeroScan_suql.git)
@@ -58,8 +58,7 @@ This project operates under the permissive MIT License.
 ### Acknowledgments
 A heartfelt thank you to the Aleph Zero team for their unwavering support and the wealth of knowledge found in the Aleph Zero documentation.
 
-### Relevant Links
-Aleph Zero Documentation link
+
 
 #### Contributors
-Olaoye Salem link
+Olaoye Salem 
