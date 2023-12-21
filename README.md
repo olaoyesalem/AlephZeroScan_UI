@@ -1,7 +1,7 @@
 # Aleph Zero Blockchain Explorer
 ## Tooling/Infrastructure - Create developer/infrastructure tooling for the Aleph Zero Ecosystem.
 ## Overview
-[project Link](https://aleph-zero-scan-ui.vercel.app/)
+
 
 Welcome to the Aleph Zero Blockchain Explorer - your gateway to the heart of the Aleph Zero blockchain. Crafted with precision and designed for seasoned developers, this project is the culmination of our efforts in the [Hackathon Name]. Dive deep into Aleph Zero's intricacies, explore extrinsic transactions, unravel event blocks, and seamlessly navigate to the Aleph Zero documentation for a holistic understanding.
 
@@ -15,6 +15,22 @@ Welcome to the Aleph Zero Blockchain Explorer - your gateway to the heart of the
 
 ### AlephZero SUBQL
 [link](https://github.com/olaoyesalem/alephZeroScan_suql.git)
+
+* AFter Cloning the repository above
+run 
+```bash
+yarn subql publish
+```
+this will get the CID.
+* Head On to [link](https://managedservice.subquery.network). Create a project with the CID;
+*  Take the hash of the project you have deployed on subquery and add it to this repository in the
+  ```bash
+src/utils/index.ts
+```
+Deploy The Boiler Plate of the UI- [link](https://github.com/olaoyesalem/AlephZeroScan_UI.git)
+
+You're Done 😍
+
 
 ## Getting Started
 
@@ -49,7 +65,7 @@ To embark on this journey, ensure you have the following tools at your disposal:
 yarn start
 ```
 
-2. Unlock the portal to the Aleph Zero Blockchain Explorer a
+
 
 
 ### License
